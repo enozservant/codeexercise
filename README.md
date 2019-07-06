@@ -1,5 +1,5 @@
 # codeexercise 
-For a coding exercise
+For a coding exercise. Simply type "python [filename]" and it should run.
 
 Q: "Is the way you wrote the second program influenced by writing the first?"
 
