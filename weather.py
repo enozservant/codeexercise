@@ -70,7 +70,7 @@ def parse_row(line):
     line = line.replace('*', '')
     check_day(line.split())
     # print line
-    # this line can be used to help with see what I did in this code
+    # this line can be used to help see what I did in this code
 
 
 def check_day(arr_of_data):
